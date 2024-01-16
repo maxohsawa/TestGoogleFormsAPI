@@ -1,0 +1,662 @@
+{
+  "items": [
+    {
+      "itemId": "44911c05",
+      "title": "Would you like to fund this file?",
+      "questionItem": {
+        "question": {
+          "questionId": "03f585ea",
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Yes",
+                "goToSectionId": "4c3b7a48"
+              },
+              {
+                "value": "No",
+                "goToSectionId": "37ccc4e2"
+              },
+              {
+                "value": "Requires additional information",
+                "goToSectionId": "21551b92"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "4c3b7a48",
+      "pageBreakItem": {},
+      "title": "Interested in funding this file"
+    },
+    {
+      "itemId": "35cb948f",
+      "title": "What type of offer would you like to submit?",
+      "questionItem": {
+        "question": {
+          "questionId": "0dcfba4c",
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "MCA",
+                "goToSectionId": "27d035d4"
+              },
+              {
+                "value": "Consolidation",
+                "goToSectionId": "0379535b"
+              },
+              {
+                "value": "MCA + Consolidation",
+                "goToSectionId": "44cfeed8"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "27d035d4",
+      "pageBreakItem": {},
+      "title": "MCA"
+    },
+    {
+      "itemId": "76908281",
+      "title": "Soft offer for funding",
+      "questionItem": {
+        "question": {
+          "questionId": "2391748a",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "2eee26cb",
+      "title": "Buy rate",
+      "questionItem": {
+        "question": {
+          "questionId": "6a57464b",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "03878a7a",
+      "title": "Term length",
+      "questionItem": {
+        "question": {
+          "questionId": "2a21480f",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7dfa282b",
+      "title": "Daily or Weekly?",
+      "questionItem": {
+        "question": {
+          "questionId": "2ccef5d6",
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Daily"
+              },
+              {
+                "value": "Weekly"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "52752aff",
+      "title": "Max upsell",
+      "questionItem": {
+        "question": {
+          "questionId": "027db1fb",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7889535a",
+      "title": "Merchant credit score",
+      "questionItem": {
+        "question": {
+          "questionId": "633dd0d7",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "32c1258f",
+      "title": "What position will you be?",
+      "questionItem": {
+        "question": {
+          "questionId": "154dd524",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "70b98bf2",
+      "title": "Funder name",
+      "questionItem": {
+        "question": {
+          "questionId": "79b9863d",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "4773f1c6",
+      "title": "Additional comments",
+      "questionItem": {
+        "question": {
+          "questionId": "412e97d9",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "0379535b",
+      "pageBreakItem": {},
+      "title": "Consolidation"
+    },
+    {
+      "itemId": "3b45bcff",
+      "title": "Consolidation offer amount",
+      "questionItem": {
+        "question": {
+          "questionId": "3c839d9e",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "2ef89d95",
+      "title": "Fees",
+      "questionItem": {
+        "question": {
+          "questionId": "750aa2d4",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "52776d8e",
+      "title": "Total weekly deposits",
+      "questionItem": {
+        "question": {
+          "questionId": "7e76f7a0",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "6cf82569",
+      "title": "Number of weekly deposits",
+      "questionItem": {
+        "question": {
+          "questionId": "574f73d8",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "14e317bd",
+      "title": "Current daily payment",
+      "questionItem": {
+        "question": {
+          "questionId": "4953b6c3",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "0551894a",
+      "title": "New daily payment",
+      "questionItem": {
+        "question": {
+          "questionId": "19223b2b",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7596fc31",
+      "title": "Daily savings",
+      "questionItem": {
+        "question": {
+          "questionId": "604163d4",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "06dc0f29",
+      "title": "Weekly savings",
+      "questionItem": {
+        "question": {
+          "questionId": "64c8c206",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "0582bda0",
+      "title": "Consolidator name",
+      "questionItem": {
+        "question": {
+          "questionId": "14592387",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "3e915c3f",
+      "title": "What position will you be?",
+      "questionItem": {
+        "question": {
+          "questionId": "1ae61aa3",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "50e468c1",
+      "title": "Client credit score if access?",
+      "questionItem": {
+        "question": {
+          "questionId": "16376536",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "1c433b8a",
+      "title": "Additional comments",
+      "questionItem": {
+        "question": {
+          "questionId": "0d683bc5",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "44cfeed8",
+      "pageBreakItem": {},
+      "title": "MCA + Consolidation"
+    },
+    {
+      "itemId": "2d647ae8",
+      "textItem": {},
+      "title": "MCA"
+    },
+    {
+      "itemId": "3a1dfe73",
+      "title": "Soft offer for funding",
+      "questionItem": {
+        "question": {
+          "questionId": "5df12b65",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "69daa01b",
+      "title": "Buy rate",
+      "questionItem": {
+        "question": {
+          "questionId": "7a162f9b",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "4f20e5b9",
+      "title": "Term length",
+      "questionItem": {
+        "question": {
+          "questionId": "0c11da72",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "40889806",
+      "title": "Daily or Weekly?",
+      "questionItem": {
+        "question": {
+          "questionId": "298c11c9",
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Daily"
+              },
+              {
+                "value": "Weekly"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "21e8bd91",
+      "title": "Max upsell",
+      "questionItem": {
+        "question": {
+          "questionId": "41943293",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "4c766857",
+      "title": "Merchant credit score",
+      "questionItem": {
+        "question": {
+          "questionId": "6777d6d4",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "0eede94b",
+      "title": "What position will you be?",
+      "questionItem": {
+        "question": {
+          "questionId": "0d286ac9",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "1b461430",
+      "title": "Funder name",
+      "questionItem": {
+        "question": {
+          "questionId": "652772e5",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "5fa53942",
+      "title": "Additional comments",
+      "questionItem": {
+        "question": {
+          "questionId": "65388abe",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "2afab6bb",
+      "textItem": {},
+      "title": "Consolidation"
+    },
+    {
+      "itemId": "50f3e9d4",
+      "title": "Consolidation offer amount",
+      "questionItem": {
+        "question": {
+          "questionId": "3938f919",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "49e9953f",
+      "title": "Fees",
+      "questionItem": {
+        "question": {
+          "questionId": "0b406062",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "7a858266",
+      "title": "Total weekly deposits",
+      "questionItem": {
+        "question": {
+          "questionId": "61e7571f",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "5f7c1087",
+      "title": "Number of weekly deposits",
+      "questionItem": {
+        "question": {
+          "questionId": "518083dd",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "0c409805",
+      "title": "Current daily payment",
+      "questionItem": {
+        "question": {
+          "questionId": "43a59f3c",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "366f43f2",
+      "title": "New daily payment",
+      "questionItem": {
+        "question": {
+          "questionId": "29a24eb8",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "19c0890b",
+      "title": "Daily savings",
+      "questionItem": {
+        "question": {
+          "questionId": "0195ad63",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "69f8f5e2",
+      "title": "Weekly savings",
+      "questionItem": {
+        "question": {
+          "questionId": "4cf2d648",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "762ba3a5",
+      "title": "Consolidator name",
+      "questionItem": {
+        "question": {
+          "questionId": "38621305",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "06a41e91",
+      "title": "What position will you be?",
+      "questionItem": {
+        "question": {
+          "questionId": "2cea9e23",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "5f8aa5ea",
+      "title": "Client credit score if access?",
+      "questionItem": {
+        "question": {
+          "questionId": "4f8a3079",
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "58a2b990",
+      "title": "Additional comments",
+      "questionItem": {
+        "question": {
+          "questionId": "64dfb9e7",
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "37ccc4e2",
+      "pageBreakItem": {},
+      "title": "Not interested in funding this file"
+    },
+    {
+      "itemId": "7703d412",
+      "title": "Reason for decline",
+      "questionItem": {
+        "question": {
+          "questionId": "52aacd89",
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Default",
+                "goToAction": "SUBMIT_FORM"
+              },
+              {
+                "value": "Restricted Industry",
+                "goToSectionId": "723f7dc1"
+              },
+              {
+                "value": "Low / Negative Revenue",
+                "goToAction": "SUBMIT_FORM"
+              },
+              {
+                "value": "Missing bank statement",
+                "goToAction": "SUBMIT_FORM"
+              },
+              {
+                "value": "Duplicate file",
+                "goToAction": "SUBMIT_FORM"
+              },
+              {
+                "value": "Other",
+                "goToSectionId": "7fdb2e25"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "723f7dc1",
+      "pageBreakItem": {},
+      "title": "Restricted Industry"
+    },
+    {
+      "itemId": "43b61359",
+      "title": "Name of restricted industry",
+      "questionItem": {
+        "question": {
+          "questionId": "0d340b14",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "21551b92",
+      "pageBreakItem": {},
+      "title": "Requires additional information"
+    },
+    {
+      "itemId": "68485b3e",
+      "title": "What additional information is required?",
+      "questionItem": {
+        "question": {
+          "questionId": "680bd94a",
+          "required": true,
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "itemId": "7fdb2e25",
+      "pageBreakItem": {},
+      "title": "Other reason for declining"
+    },
+    {
+      "itemId": "2888f251",
+      "title": "What is your reason for declining?",
+      "questionItem": {
+        "question": {
+          "questionId": "731bb2aa",
+          "required": true,
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    }
+  ]
+}
